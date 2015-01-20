@@ -1,8 +1,9 @@
-Armar la función que me devuelve el n-ésimo número de la serie de Fibonacci, que se arma
+Armar la función `fibonacci` que me devuelve el n-ésimo número de la serie de Fibonacci, que se arma
 así:
 
- fib(1) = 1
- fib(2) = 1
- fib(n) = fib(n-1) + fib(n-2) si n > 2
- 
+* el `fibonacci` de 1 es 1
+* el `fibonacci` de 2 es 1
+* el `fibonacci` de otro numero mayor que 2 es la suma de los dos `fibonacci`s anteriores
+
 Hacerlo con guardas, y también con pattern matching. 
+ 
