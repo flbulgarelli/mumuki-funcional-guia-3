@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: maximo
+- binding: menoresA
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''
