@@ -2,3 +2,5 @@
 expectations:
 - binding: sinExtremos
   inspection: HasDirectRecursion
+- binding: ''
+  inspection: ''
