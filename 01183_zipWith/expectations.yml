@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: aparearCon
+  inspection: HasDirectRecusion
