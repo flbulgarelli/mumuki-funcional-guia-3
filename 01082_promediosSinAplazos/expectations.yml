@@ -2,3 +2,5 @@
 expectations:
 - binding: promediosSinAplazos
   inspection: HasDirectRecursion
+- binding: ''
+  inspection: ''
