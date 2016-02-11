@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: promediosSinAplazos
+  inspection: HasDirectRecursion
