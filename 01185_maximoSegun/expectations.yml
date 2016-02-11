@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: filtrar
+- binding: maximoSegun
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''
