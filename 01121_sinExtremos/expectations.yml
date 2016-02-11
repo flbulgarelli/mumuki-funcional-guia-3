@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: alVesre
+- binding: sinExtremos
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''
