@@ -1,0 +1,4 @@
+---
+expectations:
+- binding: pertenece
+  inspection: HasDirectRecursion
