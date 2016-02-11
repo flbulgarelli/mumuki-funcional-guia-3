@@ -2,3 +2,5 @@
 expectations:
 - binding: aparearCon
   inspection: HasDirectRecusion
+- binding: ''
+  inspection: ''
