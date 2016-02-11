@@ -4,3 +4,5 @@ expectations:
   inspection: HasDirectRecusion
 - binding: aparearCon
   inspection: Not:HasUsage:zipWith
+- binding: ''
+  inspection: ''
