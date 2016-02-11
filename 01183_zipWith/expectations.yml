@@ -2,5 +2,5 @@
 expectations:
 - binding: aparearCon
   inspection: HasDirectRecusion
-- binding: ''
-  inspection: ''
+- binding: aparearCon
+  inspection: Not:HasUsage:zipWith

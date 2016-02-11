@@ -2,5 +2,5 @@
 expectations:
 - binding: filtrar
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''
+- binding: filtrar
+  inspection: Not:HasUsage:filter
