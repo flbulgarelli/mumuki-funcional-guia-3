@@ -1,6 +1,4 @@
 ---
 expectations:
-- binding: menoresA
+- binding: diferencias
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''
