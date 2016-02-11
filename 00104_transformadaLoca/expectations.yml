@@ -2,3 +2,5 @@
 expectations:
 - binding: transformadaLoca
   inspection: HasDirectRecursion
+- binding: ''
+  inspection: ''
