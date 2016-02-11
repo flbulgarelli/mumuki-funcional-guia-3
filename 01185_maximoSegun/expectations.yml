@@ -2,3 +2,5 @@
 expectations:
 - binding: maximoSegun
   inspection: HasDirectRecursion
+- binding: ''
+  inspection: ''
