@@ -4,3 +4,5 @@ expectations:
   inspection: Not:HasUsage:cycle
 - binding: ciclar
   inspection: HasDirectRecursion
+- binding: ''
+  inspection: ''
