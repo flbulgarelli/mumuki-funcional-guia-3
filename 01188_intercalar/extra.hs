@@ -1,0 +1,1 @@
+intercalar :: a -> [a] -> [a]
