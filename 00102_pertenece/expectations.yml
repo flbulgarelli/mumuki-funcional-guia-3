@@ -2,5 +2,3 @@
 expectations:
 - binding: pertenece
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

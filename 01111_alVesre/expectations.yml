@@ -2,5 +2,3 @@
 expectations:
 - binding: alVesre
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

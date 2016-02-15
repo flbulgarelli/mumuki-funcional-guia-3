@@ -2,5 +2,3 @@
 expectations:
 - binding: interseccion
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

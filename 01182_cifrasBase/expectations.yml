@@ -2,5 +2,3 @@
 expectations:
 - binding: cifrasBase
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

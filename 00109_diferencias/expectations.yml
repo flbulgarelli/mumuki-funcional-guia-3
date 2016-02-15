@@ -2,5 +2,3 @@
 expectations:
 - binding: diferencias
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

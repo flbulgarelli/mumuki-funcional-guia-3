@@ -2,5 +2,3 @@
 expectations:
 - binding: cifrasBinarias
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

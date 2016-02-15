@@ -2,5 +2,3 @@
 expectations:
 - binding: fibonacci
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

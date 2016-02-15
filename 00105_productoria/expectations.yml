@@ -2,5 +2,3 @@
 expectations:
 - binding: productoria
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''

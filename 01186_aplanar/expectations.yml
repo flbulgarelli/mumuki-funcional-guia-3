@@ -4,5 +4,3 @@ expectations:
   inspection: Not:HasUsage:concat
 - binding: aplanar
   inspection: HasDirectRecursion
-- binding: ''
-  inspection: ''
