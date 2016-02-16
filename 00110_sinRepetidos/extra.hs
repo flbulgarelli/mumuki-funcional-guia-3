@@ -1,0 +1,1 @@
+ordenar (x:xs) = filter (<x) xs ++ [x] ++ filter (x<) xs
