@@ -1,1 +1,2 @@
-ordenar (x:xs) = filter (<x) xs ++ [x] ++ filter (x<) xs
+ordenar [] = []
+ordenar (x:xs) = ordenar (filter (<x) xs) ++ [x] ++ ordenar (filter (x<) xs)
