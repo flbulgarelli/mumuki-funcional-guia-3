@@ -1,6 +1,6 @@
 ---
 expectations:
 - binding: aparearCon
-  inspection: HasDirectRecusion
+  inspection: HasDirectRecursion
 - binding: aparearCon
   inspection: Not:HasUsage:zipWith
