@@ -1,4 +1,4 @@
-Definir la función `aparearCon` (nuestra versión del `zipWith), que aparea 2 listas segun una función
+Definí la función `aparearCon` (nuestra versión del `zipWith`), que aparea 2 listas segun una función
 
 ```haskell
 ム aparearCon (+) [1,2,3] [4,5,6]
