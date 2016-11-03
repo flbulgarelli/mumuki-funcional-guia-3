@@ -2,7 +2,5 @@
 expectations:
 - binding: aparearCon
   inspection: HasDirectRecursion
-  verb: 
 - binding: aparearCon
   inspection: Not:HasUsage:zipWith
-  verb: 
