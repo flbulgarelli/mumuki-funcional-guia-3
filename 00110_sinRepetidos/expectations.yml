@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: sinRepetidos
+- !ruby/hash:BSON::Document
+  binding: sinRepetidos
   inspection: HasDirectRecursion

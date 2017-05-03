@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: cifrasBinarias
+- !ruby/hash:BSON::Document
+  binding: cifrasBinarias
   inspection: HasDirectRecursion

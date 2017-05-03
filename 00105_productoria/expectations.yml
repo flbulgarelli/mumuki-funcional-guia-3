@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: productoria
+- !ruby/hash:BSON::Document
+  binding: productoria
   inspection: HasDirectRecursion

@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: esCuadradoPerfecto
+- !ruby/hash:BSON::Document
+  binding: esCuadradoPerfecto
   inspection: HasDirectRecursion

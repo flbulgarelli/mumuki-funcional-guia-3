@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: maximo
+- !ruby/hash:BSON::Document
+  binding: maximo
   inspection: HasDirectRecursion

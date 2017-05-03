@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: sinExtremos
+- !ruby/hash:BSON::Document
+  binding: sinExtremos
   inspection: HasDirectRecursion

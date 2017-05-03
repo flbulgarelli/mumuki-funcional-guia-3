@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: diferencias
+- !ruby/hash:BSON::Document
+  binding: diferencias
   inspection: HasDirectRecursion
