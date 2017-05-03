@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: filtrar
+- binding: filtrar
   inspection: HasDirectRecursion
-- !ruby/hash:BSON::Document
-  binding: filtrar
+- binding: filtrar
   inspection: Not:HasUsage:filter

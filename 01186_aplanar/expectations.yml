@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: aplanar
+- binding: aplanar
   inspection: Not:HasUsage:concat
-- !ruby/hash:BSON::Document
-  binding: aplanar
+- binding: aplanar
   inspection: HasDirectRecursion

@@ -1,5 +1,4 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: pertenece
+- binding: pertenece
   inspection: HasDirectRecursion

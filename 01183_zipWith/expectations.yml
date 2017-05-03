@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: aparearCon
+- binding: aparearCon
   inspection: HasDirectRecursion
-- !ruby/hash:BSON::Document
-  binding: aparearCon
+- binding: aparearCon
   inspection: Not:HasUsage:zipWith

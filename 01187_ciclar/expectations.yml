@@ -1,8 +1,6 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: ciclar
+- binding: ciclar
   inspection: Not:HasUsage:cycle
-- !ruby/hash:BSON::Document
-  binding: ciclar
+- binding: ciclar
   inspection: HasDirectRecursion

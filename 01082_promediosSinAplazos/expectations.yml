@@ -1,5 +1,4 @@
 ---
 expectations:
-- !ruby/hash:BSON::Document
-  binding: promediosSinAplazos
+- binding: promediosSinAplazos
   inspection: HasDirectRecursion
