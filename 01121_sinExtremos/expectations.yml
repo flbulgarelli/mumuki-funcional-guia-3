@@ -1,4 +1,0 @@
----
-expectations:
-- binding: sinExtremos
-  inspection: HasDirectRecursion
