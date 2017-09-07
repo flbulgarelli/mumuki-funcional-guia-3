@@ -3,6 +3,6 @@ lista de los promedios de cada lista-elemento, excluyendo los que sean menores a
 cuentan. P.ej.
 
 ```haskell
-Main> promedios [[8,6],[6,2,4]]
+Main> promediosSinAplazos [[8,6],[6,2,4]]
 [7,5]
 ``` 
