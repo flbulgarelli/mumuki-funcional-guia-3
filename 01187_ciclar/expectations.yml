@@ -1,6 +1,0 @@
----
-expectations:
-- binding: ciclar
-  inspection: Not:HasUsage:cycle
-- binding: ciclar
-  inspection: HasDirectRecursion
