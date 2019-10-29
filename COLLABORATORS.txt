@@ -1,1 +1,0 @@
-Esta guía está en parte basada en la práctica de recursividad de Paradigmas de Programación de UTN FRBA, que se encuentra aquí: http://pdep.com.ar/material/guas-de-ejercicios

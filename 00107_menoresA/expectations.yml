@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: menoresA
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: menoresA
   inspection: HasDirectRecursion

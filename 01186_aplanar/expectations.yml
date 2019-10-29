@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: aplanar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aplanar
   inspection: Not:HasUsage:concat
-- binding: aplanar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aplanar
   inspection: HasDirectRecursion

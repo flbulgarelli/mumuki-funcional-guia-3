@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: filtrar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: filtrar
   inspection: HasDirectRecursion
-- binding: filtrar
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: filtrar
   inspection: Not:HasUsage:filter

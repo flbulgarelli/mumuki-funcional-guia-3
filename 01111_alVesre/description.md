@@ -7,5 +7,8 @@ Main> alVesre [1,3,5,7,3,4]
 ``` 
 
 Nota: Primero pensar estos casos y luego probarlos, y ver qué sucede:
+
+```haskell
 alVesre ["la", "tarde", "se", "puso", "linda"]
-alVesre ["la tarde se puso linda"] 
+alVesre ["la tarde se puso linda"]
+```

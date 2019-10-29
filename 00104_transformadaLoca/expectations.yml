@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: transformadaLoca
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: transformadaLoca
   inspection: HasDirectRecursion

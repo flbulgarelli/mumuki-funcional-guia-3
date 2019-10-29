@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: maximo
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: maximo
   inspection: HasDirectRecursion

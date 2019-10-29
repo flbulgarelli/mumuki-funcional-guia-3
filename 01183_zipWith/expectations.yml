@@ -1,6 +1,8 @@
 ---
 expectations:
-- binding: aparearCon
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aparearCon
   inspection: HasDirectRecursion
-- binding: aparearCon
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: aparearCon
   inspection: Not:HasUsage:zipWith

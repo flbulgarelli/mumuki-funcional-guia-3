@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: promediosSinAplazos
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: promediosSinAplazos
   inspection: HasDirectRecursion

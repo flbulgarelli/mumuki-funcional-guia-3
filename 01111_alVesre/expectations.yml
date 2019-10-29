@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: alVesre
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: alVesre
   inspection: HasDirectRecursion

@@ -3,7 +3,6 @@ name: Práctica Recursividad
 locale: es
 type: practice
 beta: false
-teacher_info: ''
 language: haskell
 id_format: "%05d"
 order:
@@ -24,3 +23,4 @@ order:
 - 1185
 - 1186
 - 1188
+private: false

@@ -1,4 +1,5 @@
 ---
 expectations:
-- binding: productoria
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: productoria
   inspection: HasDirectRecursion
